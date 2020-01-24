@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Web_PN_QA", "Web_PN_QA\Test.tsp", "9D269FA8-8735-4466-AC7C-1D923D83E317"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrador\Desktop\UFT-Scripts\Web_PN_QA\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "Aqua", "..\..\..\Users\HP\Documents\Unified Functional Testing\Aqua\Test.tsp", "2F6F439D-3C92-4309-AF4B-5C1EE2490779"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\HP\Documents\Unified Functional Testing\Aqua\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "Ruc20", "..\..\..\Users\HP\Desktop\Desktop-UFT\Ruc20\Test.tsp", "5549D298-D26B-457A-B26C-A0351DBA4950"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\HP\Desktop\Desktop-UFT\Ruc20\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "GUITest2", "..\..\..\Users\HP\Desktop\Desktop-UFT\GUITest2\Test.tsp", "3D40BF0B-8CC1-4104-9594-A82B9643B14E"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\HP\Desktop\Desktop-UFT\GUITest2\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		9D269FA8-8735-4466-AC7C-1D923D83E317.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9D269FA8-8735-4466-AC7C-1D923D83E317.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9D269FA8-8735-4466-AC7C-1D923D83E317.Release|Any CPU.Build.0 = Release|Any CPU
+		9D269FA8-8735-4466-AC7C-1D923D83E317.Release|Any CPU.ActiveCfg = Release|Any CPU
+		2F6F439D-3C92-4309-AF4B-5C1EE2490779.Debug|Any CPU.Build.0 = Debug|Any CPU
+		2F6F439D-3C92-4309-AF4B-5C1EE2490779.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		2F6F439D-3C92-4309-AF4B-5C1EE2490779.Release|Any CPU.Build.0 = Release|Any CPU
+		2F6F439D-3C92-4309-AF4B-5C1EE2490779.Release|Any CPU.ActiveCfg = Release|Any CPU
+		5549D298-D26B-457A-B26C-A0351DBA4950.Debug|Any CPU.Build.0 = Debug|Any CPU
+		5549D298-D26B-457A-B26C-A0351DBA4950.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		5549D298-D26B-457A-B26C-A0351DBA4950.Release|Any CPU.Build.0 = Release|Any CPU
+		5549D298-D26B-457A-B26C-A0351DBA4950.Release|Any CPU.ActiveCfg = Release|Any CPU
+		3D40BF0B-8CC1-4104-9594-A82B9643B14E.Debug|Any CPU.Build.0 = Debug|Any CPU
+		3D40BF0B-8CC1-4104-9594-A82B9643B14E.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		3D40BF0B-8CC1-4104-9594-A82B9643B14E.Release|Any CPU.Build.0 = Release|Any CPU
+		3D40BF0B-8CC1-4104-9594-A82B9643B14E.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+	EndGlobalSection
+EndGlobal
